@@ -51,6 +51,22 @@ This project is made from one the Python Web-Frameworks ~ DJango
 
     * Visit http://127.0.0.1:8000/add_student/ to add a new student.
 
+*Technologies & Tools Used for the Project*
+```
+- Microsoft Visual Studio (Windows)
+- VS Code (Windows & Mac OSX)
+- PyCharm IDE for Python web FrameWorks
+```
+
+*Academic Honesty/ Integrity Statement*
+```
+I declare that the code in this repository is entirely my own work.
+
+NOTE: For others, this repo can be a good reference, if someone wants to learn &
+understand the aspects of JAVA programming and it's topic but must not copy the
+work completed by me!
+```
+
 
 
 
