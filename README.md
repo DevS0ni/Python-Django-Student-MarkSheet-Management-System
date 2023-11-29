@@ -25,7 +25,11 @@ This project is made from one the Python Web-Frameworks ~ DJango
 
     Install Django and create a new project and app as:
 
-    -- pip install django
+    pip install django
+    django-admin startproject marksheet_project
+    cd marksheet_project
+    python manage.py startapp marksheet_app
+
 
 
 
