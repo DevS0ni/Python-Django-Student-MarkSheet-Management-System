@@ -8,7 +8,8 @@ This project is made from one the Python Web-Frameworks ~ DJango
 *-> Django is a free python open-source web-framework that follows the model-template-views system.*
 
 * The Marksheet Management System is a comprehensive web application developed to efficiently manage and display student marksheet information. 
-* This system is designed to automate and streamline the process of recording, calculating, and presenting student academic performance. * * Utilizing the Django framework, it incorporates best practices, robust error handling, and security considerations to ensure a reliable and secure user experience.
+* This system is designed to automate and streamline the process of recording, calculating, and presenting student academic performance.
+* Utilizing the Django framework, it incorporates best practices, robust error handling, and security considerations to ensure a reliable and secure user experience.
 * The project uses:
     - A secure User Authentication System.
     - Student Information Management - users can add, edit or remove any student information.
