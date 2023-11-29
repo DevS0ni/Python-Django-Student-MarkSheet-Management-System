@@ -56,6 +56,7 @@ This project is made from one the Python Web-Frameworks ~ DJango
 - Microsoft Visual Studio (Windows)
 - VS Code (Windows & Mac OSX)
 - PyCharm IDE for Python web FrameWorks
+- Sublime Text Editor
 ```
 
 *Academic Honesty/ Integrity Statement*
