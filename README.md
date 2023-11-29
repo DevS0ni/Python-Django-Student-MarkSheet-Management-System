@@ -19,3 +19,13 @@ This project is made from one the Python Web-Frameworks ~ DJango
     - Audit Trail - The application records all the significant events such as user logins, changes in student information, and grade 
                     modifications.
 
+**How to install/ view this project:**
+
+-> You have to first have Django installed in your machine, follow the following steps:
+
+    Install Django and create a new project and app as:
+
+    -- pip install django
+
+
+
