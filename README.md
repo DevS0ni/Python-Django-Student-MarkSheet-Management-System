@@ -23,12 +23,33 @@ This project is made from one the Python Web-Frameworks ~ DJango
 
 -> You have to first have Django installed in your machine, follow the following steps:
 
-    Install Django and create a new project and app as:
+    -- Install Django and create a new project and app as:
 
     pip install django
     django-admin startproject marksheet_project
     cd marksheet_project
     python manage.py startapp marksheet_app
+
+    **After the above mentioned steps, update the files in your directory of the project with code I have written, in this repository.**
+
+    -- Create and apply migrations:
+
+       python manage.py makemigrations
+       python manage.py migrate
+    
+    -- Create a superuser:
+
+       python manage.py createsuperuser
+
+    -- Run the development server:
+
+       python manage.py runserver
+       
+    * Visit http://127.0.0.1:8000/admin and log in with the superuser credentials. Add some students through the admin interface.
+
+    * Visit http://127.0.0.1:8000/marksheet/ to see the marksheet.
+
+    * Visit http://127.0.0.1:8000/add_student/ to add a new student.
 
 
 
